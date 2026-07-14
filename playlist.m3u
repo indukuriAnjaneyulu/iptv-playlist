@@ -1,0 +1,34 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-name="GS Grameena TV" group-title="TV",GS Grameena TV
+https://www.schannels.in/gsgrameena/video.m3u8?token=nokshitha
+
+#EXTINF:-1 tvg-name="Tirumala HD" group-title="Devotional",Tirumala HD
+https://mumbai-edge.smartplaytv.in/TirumalaHD/index.m3u8
+
+#EXTINF:-1 tvg-name="Tirumala HD Audio" group-title="Radio",Tirumala HD Audio
+https://mumbai-edge.smartplaytv.in/TirumalaHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="RK Bhakthi TV" group-title="Devotional",RK Bhakthi TV
+https://mumbai-edge.smartplaytv.in/RKBhakthiTV/index.m3u8
+
+#EXTINF:-1 tvg-name="DS9E" group-title="TV",DS9E
+https://mumbai-edge.smartplaytv.in/ds9e/index.m3u8
+
+#EXTINF:-1 tvg-name="BCT Keerthana Audio" group-title="Radio",BCT Keerthana Audio
+https://mumbai-edge.smartplaytv.in/BCTKeerthana/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="PCN HD Audio" group-title="Radio",PCN HD Audio
+https://mumbai-edge.smartplaytv.in/PCNHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="SRK City TV" group-title="TV",SRK City TV
+https://server.streamwell.in/hls/srkcity.m3u8
+
+#EXTINF:-1 tvg-name="Gee TV" group-title="TV",Gee TV
+https://mumbai-edge.smartplaytv.in/GeeTV/index.m3u8
+
+#EXTINF:-1 tvg-name="Vedhika TV" group-title="Spiritual",Vedhika TV
+https://streaming.livebox.co.in/vedhikahls/live.m3u8
+
+#EXTINF:-1 tvg-name="YJ TV" group-title="TV",YJ TV
+https://mumbai-edge.smartplaytv.in/YJTV/index.m3u8
